@@ -1,14 +1,5 @@
 {
     "codesnap.backgroundColor": "#7579e7",
-    "colorize.languages": [
-        "javascript",
-        "typescript",
-        "javascriptreact",
-        "typescriptreact",
-        "json",
-        "html",
-        "css"
-    ],
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true,
         // "source.organizeImports": true,
@@ -49,11 +40,6 @@
         "**/node_modules": true,
     },
     "javascript.updateImportsOnFileMove.enabled": "never",
-    "less.compile": {
-        "compress": true,
-        "sourceMap": true,
-        "out": false
-    },
     "liveSassCompile.settings.formats": [
         {
             "format": "compressed",
@@ -96,12 +82,6 @@
     },
     "powermode.enabled": true,
     "powermode.presets": "flames",
-    // "[svelte]": {
-    //     "editor.defaultFormatter": "svelte.svelte-vscode"
-    // },
-    // "svelte.enable-ts-plugin": true,
-    // "svelte.language-server.runtime": "/usr/local/opt/node@14/bin/node",
-    // "terminal.integrated.shell.osx": "/bin/zsh",
     "window.titleBarStyle": "custom",
     // "workbench.colorTheme": "Omni",
     "workbench.iconTheme": "material-icon-theme",
