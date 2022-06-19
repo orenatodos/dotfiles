@@ -1,0 +1,121 @@
+{
+    "codesnap.backgroundColor": "#7579e7",
+    "colorize.languages": [
+        "javascript",
+        "typescript",
+        "javascriptreact",
+        "typescriptreact",
+        "json",
+        "html",
+        "css"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        // "source.organizeImports": true,
+        "source.fixAll.stylelint": true
+    },
+    "editor.cursorBlinking": "expand",
+    "editor.fontFamily": "'JetBrains Mono', 'Fira Code', 'Victor Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": false,
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [{
+        "scope": [
+            "entity.name.function",
+            "entity.name.method",
+        ],
+        "settings": {
+            "fontStyle": "bold underline"
+        }
+        }]
+    },
+    "editor.wordWrap": "on",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "explorer.compactFolders": false,
+    "explorer.confirmDelete": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true,
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "less.compile": {
+        "compress": true,
+        "sourceMap": true,
+        "out": false
+    },
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compressed",
+            "extensionName": ".css",
+            "savePath": "/src/styles"
+        },
+    ],
+    "material-icon-theme.files.associations": {
+        "ormconfig.json": "database",
+        "tsconfig.json": "tune",
+        "*.proto": "3d",
+        "*.controller.ts": "nest-controller",
+        "*.module.ts": "nest-module",
+        "*.service.ts": "nest-service",
+        "*.middleware.ts": "nest-middleware",
+        "*.filter.ts": "nest-filter",
+        "*.pipe.ts": "nest-pipe",
+        "*.gateway.ts": "nest-gateway",
+        "*.decorator.ts": "nest-decorator",
+        "*.guard.ts": "nest-guard",
+        "*.resolver.ts": "graphql",
+        "*.input.ts": "graphql",
+    },
+    "material-icon-theme.folders.associations": {
+        "infra": "app",
+        "entities": "class",
+        "schemas": "class",
+        "typeorm": "database",
+        "repositories": "mappings",
+        "http": "container",
+        "migrations": "tools",
+        "modules": "components",
+        "objects": "components",
+        "implementations": "core",
+        "dtos": "typescript",
+        "fakes": "mock",
+        "websockets": "pipe",
+        "protos": "pipe",
+        "grpc": "pipe",
+    },
+    "powermode.enabled": true,
+    "powermode.presets": "flames",
+    // "[svelte]": {
+    //     "editor.defaultFormatter": "svelte.svelte-vscode"
+    // },
+    // "svelte.enable-ts-plugin": true,
+    // "svelte.language-server.runtime": "/usr/local/opt/node@14/bin/node",
+    // "terminal.integrated.shell.osx": "/bin/zsh",
+    "window.titleBarStyle": "custom",
+    // "workbench.colorTheme": "Omni",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+    "cSpell.enabled": false,
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "material-icon-theme.folders.color": "#fefefe",
+    "standard.autoFixOnSave": true,
+    "editor.fontSize": 16,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "vscode-edge-devtools.mirrorEdits": true,
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.colorTheme": "Dracula Pro (Van Helsing)",
+    "workbench.productIconTheme": "fluent-icons",
+}
