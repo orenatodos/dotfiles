@@ -1,0 +1,220 @@
+[character]
+success_symbol = "[>](bold green)"
+error_symbol = "[x](bold red)"
+vimcmd_symbol = "[<](bold green)"
+
+[aws]
+symbol = "  "
+
+[buf]
+symbol = " "
+
+[bun]
+
+[c]
+symbol = " "
+
+[cmake]
+
+[cmd_duration]
+
+[cobol]
+
+[conda]
+symbol = " "
+
+[crystal]
+
+[daml]
+
+[dart]
+symbol = " "
+
+[deno]
+
+[directory]
+read_only = " 󰌾"
+
+[git_commit]
+tag_symbol = " tag "
+
+[docker_context]
+symbol = " "
+
+[dotnet]
+
+[elixir]
+symbol = " "
+
+[elm]
+symbol = " "
+
+[erlang]
+
+[fennel]
+
+[fossil_branch]
+symbol = " "
+
+[gcloud]
+
+[git_branch]
+symbol = " "
+
+[git_status]
+ahead = ">"
+behind = "<"
+diverged = "<>"
+renamed = "r"
+deleted = "x"
+
+[golang]
+symbol = " "
+
+[gradle]
+
+[guix_shell]
+symbol = " "
+
+[haskell]
+symbol = " "
+
+[haxe]
+symbol = " "
+
+[helm]
+
+[hg_branch]
+symbol = " "
+
+[hostname]
+ssh_symbol = " "
+
+[java]
+symbol = " "
+
+[julia]
+symbol = " "
+
+[kotlin]
+
+[kubernetes]
+
+[lua]
+symbol = " "
+
+[memory_usage]
+symbol = "󰍛 "
+
+[meson]
+symbol = "󰔷 "
+
+[nim]
+symbol = "󰆥 "
+
+[nix_shell]
+symbol = " "
+
+[nodejs]
+symbol = " "
+
+[ocaml]
+
+[opa]
+
+[openstack]
+
+[os]
+
+[os.symbols]
+Alpaquita = " "
+Alpine = " "
+Amazon = " "
+Android = " "
+Arch = " "
+Artix = " "
+CentOS = " "
+Debian = " "
+DragonFly = " "
+Emscripten = " "
+EndeavourOS = " "
+Fedora = " "
+FreeBSD = " "
+Garuda = "󰛓 "
+Gentoo = " "
+HardenedBSD = "󰞌 "
+Illumos = "󰈸 "
+Linux = " "
+Mabox = " "
+Macos = " "
+Manjaro = " "
+Mariner = " "
+MidnightBSD = " "
+Mint = " "
+NetBSD = " "
+NixOS = " "
+OpenBSD = "󰈺 "
+openSUSE = " "
+OracleLinux = "󰌷 "
+Pop = " "
+Raspbian = " "
+Redhat = " "
+RedHatEnterprise = " "
+Redox = "󰀘 "
+Solus = "󰠳 "
+SUSE = " "
+Ubuntu = " "
+Unknown = " "
+Windows = "󰍲 "
+
+[package]
+symbol = "󰏗 "
+
+[perl]
+
+[php]
+
+[pijul_channel]
+symbol = " "
+
+[pulumi]
+
+[purescript]
+
+[python]
+symbol = " "
+
+[raku]
+
+[red]
+
+[rlang]
+symbol = "󰟔 "
+
+[ruby]
+symbol = " "
+
+[rust]
+
+[scala]
+symbol = " "
+
+[spack]
+
+[sudo]
+
+[swift]
+
+[terraform]
+
+[time]
+
+[username]
+
+[vagrant]
+
+[vlang]
+
+[zig]
+
+[solidity]
